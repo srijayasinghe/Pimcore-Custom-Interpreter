@@ -1,4 +1,4 @@
-# Pimcore-Custom-Interpreter
+# PimCore-Custom-Interpreter
 Importing CSV data into relevant data-Objects.
 Question - 
 
